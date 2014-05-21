@@ -1,0 +1,26 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Derby - Bourbon & Neat Autocompletions",
+		"DocBlockr",
+		"Emmet",
+		"FakeImg Image Placeholder Snippet",
+		"Foundation 5 Snippets",
+		"Future Funk - Color Scheme",
+		"HTML5",
+		"Idiomatic-CSS-Comments-Snippets",
+		"Jade",
+		"Jade Snippets",
+		"JavaScript Snippets",
+		"jQuery",
+		"Neat Sass Snippets",
+		"Sass",
+		"SideBarEnhancements",
+		"Stylus",
+		"Stylus-Snippets"
+	]
+}

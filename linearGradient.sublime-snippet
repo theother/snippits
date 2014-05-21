@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+@include linear-gradient(to ${1:top}, ${2:#8fdce5}, ${3:#eee}, \$fallback: ${3:gray});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>linear-gradient</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css, source.scss, source.sass</scope>
+</snippet>

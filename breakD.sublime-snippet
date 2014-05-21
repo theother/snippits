@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+
+//---------------------------*\
+// Desktop
+//---------------------------*/
+    @include media(\$dT) {
+
+    }
+    @include media(\$dT-l) {
+
+    }
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>breakD</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

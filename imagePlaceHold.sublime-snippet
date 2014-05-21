@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<img src="http://ima.gs/afa/f60/${1:250}x${1:250}.png>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>imgplace</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.html, source.html5, source.HTML</scope>
+</snippet>

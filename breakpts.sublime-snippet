@@ -1,0 +1,50 @@
+<snippet>
+	<content><![CDATA[
+
+
+
+//---------------------------*\
+// Mobile
+//---------------------------*/
+	@include media(\$mB-p)  {
+
+    }
+//land
+    @include media(\$mB-l)  {
+
+    }
+
+
+//---------------------------*\
+// Tablet
+//---------------------------*/
+    @include media(\$tB-p) {
+   
+    }
+//land
+    @include media(\$tB-l) {
+    
+    }
+
+
+//---------------------------*\
+// Desktop
+//---------------------------*/
+    @include media(\$dT) {
+
+    }
+    @include media(\$dT-l) {
+
+    }
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>breakpts</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>
+
+
+
+

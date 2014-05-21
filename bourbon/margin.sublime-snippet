@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+@include margin(${1:1}em ${2:.5}em ${1:1}em ${2:.5}em);
+]]></content>
+  <tabTrigger>bmargin</tabTrigger>
+  <scope>source.sass, source.scss, source.css</scope>
+</snippet>

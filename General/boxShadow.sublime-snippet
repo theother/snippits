@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[box-shadow: ${1:0}px ${2:0}px ${3:8}px ${4:5}px rgba(194, 194, 194, ${5:0.85});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bShadow</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css, source.sass, source.scss</scope>
+</snippet>
